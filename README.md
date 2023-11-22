@@ -1,4 +1,4 @@
-## Raul Brandao - Estudante de Análise e Desenvolvimento de Sistemas
+### Raul Brandao - Estudante de Análise e Desenvolvimento de Sistemas
 
 ###### Meu nome é Raul Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
 <br>
