@@ -1,10 +1,10 @@
-### Raul Brandao - Estudante de Análise e Desenvolvimento de Sistemas
+## Raul Brandao - Estudante de Análise e Desenvolvimento de Sistemas
 
-###### Meu nome é Raul Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
+### Meu nome é Raul Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
 <br>
-###### Neste perfil, estarei postando atualizações de meus programas feitos livres, quanto projetos da faculdade.
+Neste perfil, estarei postando atualizações de meus programas feitos livres, quanto projetos da faculdade.
 <br>
-###### Fiz curso de programação de jogos da CRTL+PLAY, além se ser formado em Eletroeletonica na instituição Senai. Atualmente estou estudando na Faculdade de Tecnologia de Bragança Paulista
+Fiz curso de programação de jogos da CRTL+PLAY, além se ser formado em Eletroeletonica na instituição Senai. Atualmente estou estudando na Faculdade de Tecnologia de Bragança Paulista
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raul-javascript" height="30" src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascrip&logoColor=%2361DAFB">
