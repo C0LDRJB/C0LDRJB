@@ -1,6 +1,6 @@
 ## Raul Brandão - Estudante de Análise e Desenvolvimento de Sistemas
 
-###### Meu nome é Raul Julio Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
+###### Meu chamo Raul Julio Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
 ###### Neste perfil, estarei postando atualizações de meus programas feitos por hobby, quanto projetos da faculdade.
 
 ### Minhas skills:
