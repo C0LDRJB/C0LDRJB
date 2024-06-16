@@ -1,13 +1,13 @@
 ## Raul Brandão - Estudante de Análise e Desenvolvimento de Sistemas
 
-###### Meu chamo Raul Julio Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
-###### Neste perfil, estarei postando atualizações de meus programas feitos por hobby, quanto projetos da faculdade.
+#### Meu chamo Raul Julio Brandão e sou apaixonado pelo ramo da tecnologia e programação. Busco inicializar minha carreira na área de tecnologia.
+#### Neste perfil, estarei postando atualizações de meus programas feitos por hobby, quanto projetos da faculdade.
 
-### Minhas skills:
+## Minhas skills:
 
 ![skills](https://skillicons.dev/icons?i=java,html,css,js)
 
- ### Contatos:
+ ## Contatos:
  
 <div> 
   <a href="https://www.instagram.com/raulju01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
