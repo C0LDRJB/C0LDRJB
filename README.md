@@ -1,3 +1,7 @@
+<a href="https://github.com/RaulJBrandao/RaulJBrandao/blob/main/215739.gif">
+  <img src="https://github.com/RaulJBrandao/RaulJBrandao/blob/main/215739.gif" alt="Gif" style="width:auto; height:auto"/>
+</a>
+
 <!--Titulo-->
 <H1 align="center">Hello 👋 I'm Raul J. Brandão</H1>
 
