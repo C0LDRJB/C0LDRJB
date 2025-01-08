@@ -22,8 +22,9 @@
 
   <a href="mailto:raulj.brandao01@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/raul-brandão/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/raulofc01/"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><a>
 
-  <h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+  <h2 align="center">📚 Languages & tools</h2>
   
 <br/>
 
@@ -35,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </div>
 
